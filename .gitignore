@@ -1,5 +1,9 @@
 node_modules/
 dist/
 .env
+data/raw/
+data/*.zip
+data/*.csv
 data/*.json
+!data/cleaned_foods.json
 !data/config.json
